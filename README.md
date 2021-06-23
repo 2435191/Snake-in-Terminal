@@ -1,0 +1,1 @@
+A fun little Snake game I wrote in a few days for bash on MacOS. Main entry is in [src/snake.cpp].
